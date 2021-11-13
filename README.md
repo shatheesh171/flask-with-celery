@@ -1,2 +1,2 @@
 # flask-with-celery
-Contains a flask application which usese celery for async performance
+Contains a flask application which uses celery for async performance
